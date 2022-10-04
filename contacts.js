@@ -42,6 +42,6 @@ async function removeContact(id) {
 module.exports = {
   listContacts,
   getContactById,
-  removeContact,
   addContact,
+  removeContact,
 };
